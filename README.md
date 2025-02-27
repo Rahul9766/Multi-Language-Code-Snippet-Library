@@ -5,7 +5,7 @@ A full-stack web application designed to **store**, **manage**, and **retrieve**
 
 ---
 
-## 🌟 Features
+## 🌟 Features 
 
 - **Add, Search, and Delete Snippets**: Easily manage your code snippets with an intuitive UI.
 - **Multi-Language Support**: Store code in languages like **Python**, **Java**, **JavaScript**, and more.
